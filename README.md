@@ -1,3 +1,3 @@
 # kakao-clone
 
-Clone Kakatalk Project
+Clone Kakaotalk Project
